@@ -1,0 +1,74 @@
+body{
+	width: 100%;
+	margin:0 center;
+	background: #D3EEFF;
+}
+.datos{
+	background: #037e8c;
+	color:#fff;
+	text-decoration: none;
+	text-align: left;
+	width: 40%;
+	min-width: 250px;
+	padding: 20px 0px;
+	text-align:center;
+}
+.datos p,h1{
+	margin:0px 0px 20px 0px; 
+}
+img {width: 20%;
+	min-width: 200px;
+	
+	
+
+}
+.datos, img{
+	vertical-align: top;
+	display:inline-block;
+margin:0px 0px 10px 0px; 
+border:solid #024959 3px;
+}
+.datos_p{
+	text-align: center;
+	text-decoration: none;
+	color:#037e8c;
+	margin:0 auto;
+}
+.datos_p h1{
+	margin:20px 0px 5px 0px; 
+
+}
+.datos_A h1 a{
+	margin:0 auto;
+	text-align: center;
+	color:#037e8c;
+	
+}
+
+
+.datos1{
+	text-align: center;
+	background: #037e8c;
+	color:#fff;
+	text-decoration: none;
+	width: 40%;
+	min-width: 250px;
+	padding: 20px 0px;
+	margin:0px 0px 20px 0px; 
+	border:solid #024959 3px;
+}
+.datos_A, .datos1{
+
+	margin: 10px auto;
+	text-align: center
+}
+header{
+	margin-bottom: 75px;
+
+}
+.contactos{
+	margin:right;
+}
+.datos_A{
+	margin-top: 100px;
+}
